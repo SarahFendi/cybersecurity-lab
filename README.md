@@ -30,6 +30,10 @@ This repository showcases my hands-on cybersecurity practice, focusing on networ
 ## Goal
 To build practical cybersecurity experience and transition into a Cybersecurity Analyst role.
 
+## Programming Knowledge
+- Basic SQL (queries, tables, injection concepts)
+- Python (basic scripting for security tasks)
+
 ---
 
 ## Author
