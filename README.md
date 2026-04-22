@@ -1,4 +1,4 @@
-# Cybersecurity Labs Portfolio – Sarah
+# Entry-level Cybersecurity Analyst portfolio showcasing hands-on labs in network scanning and vulnerability analysis.
 
 ## Overview
 This repository showcases my hands-on cybersecurity practice, focusing on network scanning, enumeration, and vulnerability analysis.
@@ -9,7 +9,7 @@ This repository showcases my hands-on cybersecurity practice, focusing on networ
 
 ### Network Scanning & Enumeration
 - Conducted network scans using Nmap
-- Identified open ports and services
+- Identified 3+ open ports (22, 80 , 443)
 - Analyzed potential attack surfaces
 
 ### Vulnerability Analysis (SQL Injection)
