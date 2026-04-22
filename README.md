@@ -1,21 +1,21 @@
-# SQL Injection Security Lab
+# Cybersecurity Portfolio Lab
 
 ## Overview
-Hands-on cybersecurity lab demonstrating SQL Injection vulnerabilities, exploitation, and mitigation using secure coding practices.
+Multi-domain cybersecurity lab covering common attack vectors and security defenses across web security, cryptography, and network analysis.
 
-## Features
-- Vulnerable SQL authentication logic
-- SQL Injection attack simulation
-- Exploitation script (Python)
-- Secure implementation using prepared statements
-- Secure authentication flow
+## Modules
+- SQL Injection Lab
+- XSS Vulnerability Lab
+- Password Hashing & Authentication
+- Network Scanning (Nmap automation)
+- Basic Digital Forensics
 
-## Security Concepts
-- SQL Injection (OWASP Top 10)
-- Authentication bypass
-- Prepared Statements
-- Password hashing (bcrypt concept)
+## Skills Demonstrated
+- Web Security (OWASP Top 10)
+- Python security scripting
+- Network reconnaissance
+- Secure authentication design
+- Basic forensics analysis
 
-## Tech Stack
-- SQL / MySQL
-- Python (demo scripts)
+## Tools
+Python, SQL, Linux, Nmap, hashlib, bcrypt, Flask (optional)
