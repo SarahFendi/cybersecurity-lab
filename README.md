@@ -1,21 +1,83 @@
-# Cybersecurity Portfolio Lab
+# 🔐 Cybersecurity Lab Portfolio
 
-## Overview
-Multi-domain cybersecurity lab covering common attack vectors and security defenses across web security, cryptography, and network analysis.
+## 📌 Overview
+This repository is a multi-domain cybersecurity lab designed to demonstrate real-world attack techniques, vulnerabilities, and mitigation strategies across web security, network security, cryptography, and basic forensics.
 
-## Modules
-- SQL Injection Lab
-- XSS Vulnerability Lab
-- Password Hashing & Authentication
-- Network Scanning (Nmap automation)
-- Basic Digital Forensics
+The goal is to simulate how attackers move through different layers of a system and how security controls can prevent or detect these actions.
 
-## Skills Demonstrated
-- Web Security (OWASP Top 10)
-- Python security scripting
+---
+
+## 🧠 Security Model
+1. Exploitation (SQL Injection / XSS)
+2. Credential exposure
+3. Network reconnaissance
+4. Log analysis / forensics
+5. Mitigation and secure coding
+
+---
+
+## 📁 Modules
+
+### 🔹 SQL Injection Lab
+- Vulnerable SQL queries
+- Authentication bypass simulation
+- Secure prepared statement fix
+
+### 🔹 XSS Lab
+- Client-side script injection
+- Browser execution vulnerability
+- Input sanitization concept
+
+### 🔹 Password Security
+- Password hashing (bcrypt concept)
+- Secure authentication flow
+
+### 🔹 Network Scanning
+- Nmap-based reconnaissance
+- Open ports and services detection
+
+### 🔹 Forensics
+- Log file analysis
+- Suspicious activity detection
+
+---
+
+## 🛡️ Security Concepts
+- OWASP Top 10 (SQL Injection, XSS)
+- Authentication security
+- Password hashing (bcrypt / argon2)
 - Network reconnaissance
-- Secure authentication design
-- Basic forensics analysis
+- Digital forensics basics
+- Secure coding principles
 
-## Tools
-Python, SQL, Linux, Nmap, hashlib, bcrypt, Flask (optional)
+---
+
+## ⚙️ Technologies Used
+- Python
+- SQL / MySQL
+- Linux (Nmap)
+- Web security concepts
+- Log analysis techniques
+
+---
+
+## 💻 Programming Languages Used
+- Python
+- SQL
+- JavaScript (XSS demonstration context)
+
+---
+
+## 🔗 Attack Flow Simulation
+Web vulnerability → Data exposure → Network discovery → Evidence analysis → Mitigation
+
+---
+
+## 📊 Purpose
+Educational cybersecurity lab to demonstrate attack techniques and defensive strategies used in real-world systems.
+
+---
+
+## 📌 Author
+Cybersecurity Portfolio Project (Self-Learning Lab)
+
