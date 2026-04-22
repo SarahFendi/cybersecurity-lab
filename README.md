@@ -1,34 +1,37 @@
-# cybersecurity-lab
-cybersecurity basic and vulnerability analysis by sarah
 # Cybersecurity Labs Portfolio – Sarah
 
 ## Overview
-This repository contains basic cybersecurity labs and vulnerability analysis.
+This repository showcases my hands-on cybersecurity practice, focusing on network scanning, enumeration, and vulnerability analysis.
 
 ---
 
 ## Projects
 
-### 1) Network Scanning & Enumeration
-- Used Nmap for scanning
+### Network Scanning & Enumeration
+- Conducted network scans using Nmap
 - Identified open ports and services
-- Documented findings and risks
+- Analyzed potential attack surfaces
 
-### 2) Vulnerability Analysis
-- Tested web inputs
-- Identified SQL Injection vulnerability
-- Provided mitigation recommendations
+### Vulnerability Analysis (SQL Injection)
+- Tested web application input fields
+- Identified authentication bypass vulnerability
+- Documented risk and mitigation techniques
 
 ---
 
-## Skills
-- Network Fundamentals  
-- Nmap & Enumeration  
-- Basic Vulnerability Analysis  
-- Reporting  
+## Key Skills
+- Network Security Fundamentals  
+- Nmap Scanning & Enumeration  
+- Basic Vulnerability Assessment  
+- Security Reporting  
+
+---
+
+## Goal
+To build practical cybersecurity experience and transition into a Cybersecurity Analyst role.
 
 ---
 
 ## Author
-Sarah
+Sarah Fendi  
 Cybersecurity Analyst (Entry-Level)
