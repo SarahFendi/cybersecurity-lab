@@ -1,41 +1,21 @@
-# Entry-level Cybersecurity Analyst portfolio showcasing hands-on labs in network scanning and vulnerability analysis.
+# SQL Injection Security Lab
 
 ## Overview
-This repository showcases my hands-on cybersecurity practice, focusing on network scanning, enumeration, and vulnerability analysis.
+Hands-on cybersecurity lab demonstrating SQL Injection vulnerabilities, exploitation, and mitigation using secure coding practices.
 
----
+## Features
+- Vulnerable SQL authentication logic
+- SQL Injection attack simulation
+- Exploitation script (Python)
+- Secure implementation using prepared statements
+- Secure authentication flow
 
-## Projects
+## Security Concepts
+- SQL Injection (OWASP Top 10)
+- Authentication bypass
+- Prepared Statements
+- Password hashing (bcrypt concept)
 
-### Network Scanning & Enumeration
-- Conducted network scans using Nmap
-- Identified 3+ open ports (22, 80 , 443)
-- Analyzed potential attack surfaces
-
-### Vulnerability Analysis (SQL Injection)
-- Tested web application input fields
-- Identified authentication bypass vulnerability
-- Documented risk and mitigation techniques
-
----
-
-## Key Skills
-- Network Security Fundamentals  
-- Nmap Scanning & Enumeration  
-- Basic Vulnerability Assessment  
-- Security Reporting  
-
----
-
-## Goal
-To build practical cybersecurity experience and transition into a Cybersecurity Analyst role.
-
-## Programming Knowledge
-- Basic SQL (queries, tables, injection concepts)
-- Python (basic scripting for security tasks)
-
----
-
-## Author
-Sarah Fendi  
-Cybersecurity Analyst (Entry-Level)
+## Tech Stack
+- SQL / MySQL
+- Python (demo scripts)
